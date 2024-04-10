@@ -16,7 +16,7 @@ CHIP Xor {
     // Put your code here:
     And (a=a,b=b, out=aandb);
     Not (in=aandb, ou
-    t=notaandb);
+    t = notaandb);
     Or (a=a, b=b, out=aorb);
     And (a=aorb, b=notaandb, out=out);
 
