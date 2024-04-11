@@ -8,6 +8,7 @@
  * The most significant carry bit is ignored.
  */
 
+// Starter code for the Add16 project
 CHIP Add16 {
     IN a[16], b[16];
     OUT out[16];
