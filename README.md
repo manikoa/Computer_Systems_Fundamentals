@@ -1,4 +1,3 @@
-# Computer_Systems_Fundamentals
 Project 1
 Name: Anthony Maniko 
 Acknowledgements: I'd like to thank Prof. Stratton for posting his slides on Canvas that proved to be helpful 
